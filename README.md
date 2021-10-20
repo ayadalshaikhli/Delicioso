@@ -1,6 +1,6 @@
 # Delicioso!
 
-![Delicioso!](img.deliciososcreenshot.png "Delicioso Screenshot")
+![Delicioso!](public/img/deliciososcreenshot.png "Delicioso Screenshot")
 
 ## Description
 ---
