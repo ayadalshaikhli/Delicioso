@@ -22,7 +22,7 @@ Enter a few ingredients that you have and select a recipe with them.
 ---
 [Delicioso](https://dry-plateau-78238.herokuapp.com/login) as deployed on [Heroku](https://heroku.com)
 
-[Delicioso Repository]() on [GitHub](https://github.com)
+[Delicioso Repository](https://github.com/seanmatx/Delicioso.git) on [GitHub](https://github.com)
 
 
 ### Development Team
