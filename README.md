@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://delicat-bastille-97120.herokuapp.com/login">
-    <img src="https://ibb.co/FBSxrrg" alt="screenshot" >
+    <img src="https://i.ibb.co/xMpCkkJ/screencapture-delicat-bastille-97120-herokuapp-login-2021-10-25-12-05-22.png" alt="screenshot" >
   </a>
 
   <h3 align="center">Ball Finder</h3>
