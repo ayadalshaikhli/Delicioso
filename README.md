@@ -7,7 +7,7 @@
     <img src="https://i.ibb.co/xMpCkkJ/screencapture-delicat-bastille-97120-herokuapp-login-2021-10-25-12-05-22.png" alt="screenshot" >
   </a>
 
-  <h3 align="center">Ball Finder</h3>
+  <h3 align="center">Delicioso</h3>
 
   <p align="center">
     An awesome Website to search up recipes
